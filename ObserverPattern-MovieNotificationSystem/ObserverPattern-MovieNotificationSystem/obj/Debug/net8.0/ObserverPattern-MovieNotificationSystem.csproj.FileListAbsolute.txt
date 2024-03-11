@@ -1,0 +1,14 @@
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\ObserverPattern-MovieNotificationSystem\bin\Debug\net8.0\ObserverPattern-MovieNotificationSystem.exe
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\ObserverPattern-MovieNotificationSystem\bin\Debug\net8.0\ObserverPattern-MovieNotificationSystem.deps.json
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\ObserverPattern-MovieNotificationSystem\bin\Debug\net8.0\ObserverPattern-MovieNotificationSystem.runtimeconfig.json
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\ObserverPattern-MovieNotificationSystem\bin\Debug\net8.0\ObserverPattern-MovieNotificationSystem.dll
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\ObserverPattern-MovieNotificationSystem\bin\Debug\net8.0\ObserverPattern-MovieNotificationSystem.pdb
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\ObserverPattern-MovieNotificationSystem\obj\Debug\net8.0\ObserverPattern-MovieNotificationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\ObserverPattern-MovieNotificationSystem\obj\Debug\net8.0\ObserverPattern-MovieNotificationSystem.AssemblyInfoInputs.cache
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\ObserverPattern-MovieNotificationSystem\obj\Debug\net8.0\ObserverPattern-MovieNotificationSystem.AssemblyInfo.cs
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\ObserverPattern-MovieNotificationSystem\obj\Debug\net8.0\ObserverPattern-MovieNotificationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\ObserverPattern-MovieNotificationSystem\obj\Debug\net8.0\ObserverPattern-MovieNotificationSystem.dll
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\ObserverPattern-MovieNotificationSystem\obj\Debug\net8.0\refint\ObserverPattern-MovieNotificationSystem.dll
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\ObserverPattern-MovieNotificationSystem\obj\Debug\net8.0\ObserverPattern-MovieNotificationSystem.pdb
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\ObserverPattern-MovieNotificationSystem\obj\Debug\net8.0\ObserverPattern-MovieNotificationSystem.genruntimeconfig.cache
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\ObserverPattern-MovieNotificationSystem\obj\Debug\net8.0\ref\ObserverPattern-MovieNotificationSystem.dll

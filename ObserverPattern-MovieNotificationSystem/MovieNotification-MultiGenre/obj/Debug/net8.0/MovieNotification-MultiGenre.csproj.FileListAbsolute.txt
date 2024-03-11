@@ -1,0 +1,14 @@
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\MovieNotification-MultiGenre\bin\Debug\net8.0\MovieNotification-MultiGenre.exe
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\MovieNotification-MultiGenre\bin\Debug\net8.0\MovieNotification-MultiGenre.deps.json
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\MovieNotification-MultiGenre\bin\Debug\net8.0\MovieNotification-MultiGenre.runtimeconfig.json
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\MovieNotification-MultiGenre\bin\Debug\net8.0\MovieNotification-MultiGenre.dll
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\MovieNotification-MultiGenre\bin\Debug\net8.0\MovieNotification-MultiGenre.pdb
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\MovieNotification-MultiGenre\obj\Debug\net8.0\MovieNotification-MultiGenre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\MovieNotification-MultiGenre\obj\Debug\net8.0\MovieNotification-MultiGenre.AssemblyInfoInputs.cache
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\MovieNotification-MultiGenre\obj\Debug\net8.0\MovieNotification-MultiGenre.AssemblyInfo.cs
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\MovieNotification-MultiGenre\obj\Debug\net8.0\MovieNotification-MultiGenre.csproj.CoreCompileInputs.cache
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\MovieNotification-MultiGenre\obj\Debug\net8.0\MovieNotification-MultiGenre.dll
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\MovieNotification-MultiGenre\obj\Debug\net8.0\refint\MovieNotification-MultiGenre.dll
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\MovieNotification-MultiGenre\obj\Debug\net8.0\MovieNotification-MultiGenre.pdb
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\MovieNotification-MultiGenre\obj\Debug\net8.0\MovieNotification-MultiGenre.genruntimeconfig.cache
+C:\Users\Aakash_Kandhari\source\repos\ObserverPattern-MovieNotificationSystem\MovieNotification-MultiGenre\obj\Debug\net8.0\ref\MovieNotification-MultiGenre.dll
